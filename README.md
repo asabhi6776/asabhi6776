@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-#### I'm Abhishek Singh
+#### I'm **Abhishek Singh**
+[![Website](https://img.shields.io/website?label=iamabhishek.me&style=for-the-badge&url=https%3A%2F%2Fiamabhishek.me)](https://www.iamabhishek.me)
+[![Website](https://img.shields.io/website?label=blogs.iamabhishek.me&style=for-the-badge&url=https%3A%2F%2Fblogs.iamabhishek.me)](https://blogs.iamabhishek.me)
+[![Twitter Follow](https://img.shields.io/twitter/follow/thesniperxjohn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthesniperxjohn&screen_name=thesniperxjohn)
 
 I am a 👨‍💻 **DevOps Engineer** working with **[Netzary Infodynamics](https://netzary.com)**. I am interested in **DevOps**, **Linux**, and **Blogging**. I like to play games, right now I am working for **ISRO**, **Zenatix** and **DRDO**.
 
