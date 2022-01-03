@@ -57,6 +57,13 @@ I am a 👨‍💻 **DevOps Engineer** working with **[Netzary Infodynamics](htt
 
 https://blogs.iamabhishek.me/
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=asabhi6776&count_private=true&show_icons=true&theme=dracula"/>
+
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asabhi6776&count_private=true&show_icons=true&theme=dracula&langs_count=10&layout=compact"/>
+
+
 
 <!--
 **iamabhishek-dubey/iamabhishek-dubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
