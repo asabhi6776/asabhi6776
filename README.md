@@ -1,11 +1,22 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhishek Singh
+======================================================================================================================================
 
-#### I'm **Abhishek Singh**
+DevOps Engineer
+---------------
+<br>
+
 [![Website](https://img.shields.io/website?label=iamabhishek.me&style=for-the-badge&url=https%3A%2F%2Fiamabhishek.me)](https://www.iamabhishek.me)
 [![Website](https://img.shields.io/website?label=blogs.iamabhishek.me&style=for-the-badge&url=https%3A%2F%2Fblogs.iamabhishek.me)](https://blogs.iamabhishek.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thesniperxjohn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthesniperxjohn&screen_name=thesniperxjohn)
 
 I am a 👨‍💻 **DevOps Engineer** working with **[Netzary Infodynamics](https://netzary.com)**. I am interested in **DevOps**, **Linux**, and **Blogging**. I like to play games, right now I am working for **ISRO**, **Zenatix** and **DRDO**.
+
+*   🌍  I'm based in Bangalore
+*   🖥️  See my portfolio at [Profile](http://iamabhishek.me)
+*   ✉️  You can contact me at [abhishek.abvp.as@gmail.com](mailto:abhishek.abvp.as@gmail.com)
+*   🚀  I'm currently working on [Modded Minecraft Servers](http://github.com/asabhi6776/minecraft_server.git)
+*   🧠  I'm learning Python, Terraform and Groovy
+*   🤝  I'm open to collaborating on Minecraft Server, K8s and Automation.
 
 ### 📫 How to reach me
 [![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/as_abhi6776)
@@ -74,21 +85,5 @@ https://blogs.iamabhishek.me/
 
 <br>
 
-
-
-
-
-<!--
-**iamabhishek-dubey/iamabhishek-dubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get y#F05032ou started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Support Me
+<a href="https://www.buymeacoffee.com/asabhi6776"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
