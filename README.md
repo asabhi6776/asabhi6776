@@ -57,9 +57,10 @@ I am a 👨‍💻 **DevOps Engineer** working with **[Netzary Infodynamics](htt
 <a href="#"><img height="32" width="32" src="./images/gnubash.svg" alt="Bash" title="Bash" /></a>
 <a href="#"><img height="32" width="32" src="./images/nginx.svg" alt="Nginx" title="Nginx" /></a>
 <a href="#"><img height="32" width="32" src="./images/vault.svg" alt="Vault" title="Vault" /></a>
+<a href="#"><img height="32" width="32" src="./images/keycloak.svg" alt="Keycloak" title= "Keycloak" /> </a>
+<a href="#"><img height="32" width="32" src="./images/apachedruid.svg" alt="Druid" title="Druid" /></a>
 <!--<a href="#"><img height="32" width="32" src="./images/java.svg" alt="Java" title="Java" /></a>
 <a href="#"><img height="32" width="32" src="./images/puppet.svg" alt="Puppet" title="Puppet" /></a>
-<a href="#"><img height="32" width="32" src="./images/apachedruid.svg" alt="Druid" title="Druid" /></a>
 <a href="#"><img height="32" width="32" src="./images/apachegroovy.svg" alt="Groovy" title="Groovy" /></a>
 <a href="#"><img height="32" width="32" src="./images/ruby.svg" alt="Ruby" title="Ruby" /></a>
 <a href="#"><img height="32" width="32" src="./images/react.svg" alt="ReactJS" title="ReactJS" /></a>-->
