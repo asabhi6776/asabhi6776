@@ -37,7 +37,6 @@ I am a 👨‍💻 **DevOps Engineer** working with **[Netzary Infodynamics](htt
 <a href="#"><img height="32" width="32" src="./images/azurepipelines.svg" alt="AzurePipeline" title="AzurePipeline" /></a>
 <a href="#"><img height="32" width="32" src="./images/git.svg" alt="Git" title="Git" /></a>
 <a href="#"><img height="32" width="32" src="./images/github.svg" alt="Github" title="Github" /></a>
-<a href="#"><img height="32" width="32" src="./images/go.svg" alt="Golang" title="Golang" /></a>
 <a href="#"><img height="32" width="32" src="./images/python.svg" alt="Python" title="Python" /></a>
 <a href="#"><img height="32" width="32" src="./images/amazonaws.svg" alt="AWS" title="AWS" /></a>
 <a href="#"><img height="32" width="32" src="./images/googlecloud.svg" alt="GCP" title="GCP" /></a>
@@ -60,6 +59,7 @@ I am a 👨‍💻 **DevOps Engineer** working with **[Netzary Infodynamics](htt
 <a href="#"><img height="32" width="32" src="./images/keycloak.svg" alt="Keycloak" title= "Keycloak" /> </a>
 <a href="#"><img height="32" width="32" src="./images/apachedruid.svg" alt="Druid" title="Druid" /></a>
 <!--<a href="#"><img height="32" width="32" src="./images/java.svg" alt="Java" title="Java" /></a>
+<a href="#"><img height="32" width="32" src="./images/go.svg" alt="Golang" title="Golang" /></a>
 <a href="#"><img height="32" width="32" src="./images/puppet.svg" alt="Puppet" title="Puppet" /></a>
 <a href="#"><img height="32" width="32" src="./images/apachegroovy.svg" alt="Groovy" title="Groovy" /></a>
 <a href="#"><img height="32" width="32" src="./images/ruby.svg" alt="Ruby" title="Ruby" /></a>
