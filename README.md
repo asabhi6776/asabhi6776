@@ -58,6 +58,10 @@ I am a 👨‍💻 **DevOps Engineer** working with **[Netzary Infodynamics](htt
 <a href="#"><img height="32" width="32" src="./images/vault.svg" alt="Vault" title="Vault" /></a>
 <a href="#"><img height="32" width="32" src="./images/keycloak.svg" alt="Keycloak" title= "Keycloak" /> </a>
 <a href="#"><img height="32" width="32" src="./images/apachedruid.svg" alt="Druid" title="Druid" /></a>
+<a href="#"><img height="32" width="32" src="./images/argocd.png" alt="ArgoCD" title="ArgoCD" /></a>
+<a href="#"><img height="32" width="32" src="./images/Circleci.png" alt="CircleCI" title="CircleCI" /></a>
+<a href="#"><img height="32" width="32" src="./images/metallb.png" alt="MetalLB" title="MetalLB" /></a>
+<a href="#"><img height="32" width="32" src="./images/istio.png" alt="Istio" title="Istio" /></a>
 <!--<a href="#"><img height="32" width="32" src="./images/java.svg" alt="Java" title="Java" /></a>
 <a href="#"><img height="32" width="32" src="./images/go.svg" alt="Golang" title="Golang" /></a>
 <a href="#"><img height="32" width="32" src="./images/puppet.svg" alt="Puppet" title="Puppet" /></a>
