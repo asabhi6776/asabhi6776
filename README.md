@@ -18,6 +18,8 @@ I am a 👨‍💻 **DevOps Engineer** working with **[Netzary Infodynamics](htt
 *   🧠  I'm learning Python, Terraform and Groovy
 *   🤝  I'm open to collaborating on Minecraft Server, K8s and Automation.
 
+[![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=asabhi6776&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/asabhi6776)
+
 ### 📫 How to reach me
 [![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/as_abhi6776)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-singh-16bb53143/)
@@ -62,6 +64,7 @@ I am a 👨‍💻 **DevOps Engineer** working with **[Netzary Infodynamics](htt
 <a href="#"><img height="32" width="32" src="./images/Circleci.png" alt="CircleCI" title="CircleCI" /></a>
 <a href="#"><img height="32" width="32" src="./images/metallb.png" alt="MetalLB" title="MetalLB" /></a>
 <a href="#"><img height="32" width="32" src="./images/istio.png" alt="Istio" title="Istio" /></a>
+<a href="#"><img height="32" width="32" src="./images/heroku-icon.svg" alt="Heroku" title="Heroku" /></a>
 <!--<a href="#"><img height="32" width="32" src="./images/java.svg" alt="Java" title="Java" /></a>
 <a href="#"><img height="32" width="32" src="./images/go.svg" alt="Golang" title="Golang" /></a>
 <a href="#"><img height="32" width="32" src="./images/puppet.svg" alt="Puppet" title="Puppet" /></a>
@@ -73,7 +76,7 @@ I am a 👨‍💻 **DevOps Engineer** working with **[Netzary Infodynamics](htt
 
 https://blogs.iamabhishek.me/
 
-<table>
+<!-- <table>
 <tbody>
 <tr>
 <td>
@@ -84,8 +87,14 @@ https://blogs.iamabhishek.me/
 </td>
 </tr>
 </tbody>
-</table>
+</table> -->
 
+## 📈 Stats
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asabhi6776&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=asabhi6776&theme=tokyonight" />
+</p>
 
 
 <br>
