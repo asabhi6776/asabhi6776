@@ -9,7 +9,15 @@ DevOps Engineer
 [![Website](https://img.shields.io/website?label=blogs.iamabhishek.me&style=for-the-badge&url=https%3A%2F%2Fblogs.iamabhishek.me)](https://blogs.iamabhishek.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thesniperxjohn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthesniperxjohn&screen_name=thesniperxjohn)
 
-I am a 👨‍💻 **DevOps Engineer** working with **[Netzary Infodynamics](https://netzary.com)**. I am interested in **DevOps**, **Linux**, and **Blogging**. I like to play games, right now I am working for **ISRO**, **Zenatix** and **DRDO**.
+<!-- I am a 👨‍💻 **DevOps Engineer** working with **[Netzary Infodynamics](https://netzary.com)**. I am interested in **DevOps**, **Linux**, and **Blogging**. I like to play games, right now I am working for **ISRO**, **Zenatix** and **DRDO**. -->
+
+I'm Abhishek Singh, a seasoned DevOps engineer with 4 years of experience in Kubernetes, Docker, Ansible, monitoring, logging, and CI/CD. I've had the pleasure of working with several client(**Zenatix**, **QuickRide**, **ADTL** etc) to build and maintain their DevOps infrastructure.
+
+My expertise lies in containerization and orchestration with Kubernetes, and I have hands-on experience in building, scaling, and managing complex Kubernetes clusters. I am also skilled in automation with Ansible, enabling fast and consistent deployments.
+
+In addition, I have extensive experience designing and implementing CI/CD pipelines for a variety of applications, enabling fast and reliable software delivery. My passion for monitoring and logging ensures that I build resilient, fault-tolerant, and highly available systems that are always performing optimally.
+
+I am a strong believer in the DevOps culture, and I strive to promote collaboration between development and operations teams to deliver high-quality software. In my free time, I enjoy tinkering with new technologies and sharing my knowledge with others. I am excited to contribute to open-source projects and collaborate with like-minded individuals.
 
 *   🌍  I'm based in Bangalore
 *   🖥️  See my portfolio at [Profile](http://iamabhishek.me)
