@@ -7,7 +7,7 @@ DevOps Engineer
 
 [![Website](https://img.shields.io/website?label=iamabhishek.me&style=for-the-badge&url=https%3A%2F%2Fiamabhishek.me)](https://www.iamabhishek.me)
 [![Website](https://img.shields.io/website?label=blogs.iamabhishek.me&style=for-the-badge&url=https%3A%2F%2Fblogs.iamabhishek.me)](https://blogs.iamabhishek.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/thesniperxjohn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthesniperxjohn&screen_name=thesniperxjohn)
+[![Twitter Follow](https://img.shields.io/twitter/follow/asabhi6776?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthesniperxjohn&screen_name=asabhi6776)
 
 <!-- I am a 👨‍💻 **DevOps Engineer** working with **[Netzary Infodynamics](https://netzary.com)**. I am interested in **DevOps**, **Linux**, and **Blogging**. I like to play games, right now I am working for **ISRO**, **Zenatix** and **DRDO**. -->
 
@@ -33,7 +33,7 @@ I am a strong believer in the DevOps culture, and I strive to promote collaborat
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-singh-16bb53143/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek.abvp.as@gmail.com)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blogs.iamabhishek.me)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thesniperxjohn)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/asabhi6776)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GphntxYBnW)
 <!--[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)-->
 
