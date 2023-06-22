@@ -9,22 +9,20 @@ DevOps Engineer
 [![Website](https://img.shields.io/website?label=blogs.iamabhishek.me&style=for-the-badge&url=https%3A%2F%2Fblogs.iamabhishek.me)](https://blogs.iamabhishek.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/asabhi6776?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fasabhi6776&screen_name=asabhi6776)
 
-<!-- I am a 👨‍💻 **DevOps Engineer** working with **[Netzary Infodynamics](https://netzary.com)**. I am interested in **DevOps**, **Linux**, and **Blogging**. I like to play games, right now I am working for **ISRO**, **Zenatix** and **DRDO**. -->
 
-I'm Abhishek Singh, a seasoned DevOps engineer with 4 years of experience in Kubernetes, Docker, Ansible, monitoring, logging, and CI/CD. I've had the pleasure of working with several client(**Zenatix**, **QuickRide**, **ADTL** etc) to build and maintain their DevOps infrastructure.
-
-My expertise lies in containerization and orchestration with Kubernetes, and I have hands-on experience in building, scaling, and managing complex Kubernetes clusters. I am also skilled in automation with Ansible, enabling fast and consistent deployments.
-
-In addition, I have extensive experience designing and implementing CI/CD pipelines for a variety of applications, enabling fast and reliable software delivery. My passion for monitoring and logging ensures that I build resilient, fault-tolerant, and highly available systems that are always performing optimally.
-
-I am a strong believer in the DevOps culture, and I strive to promote collaboration between development and operations teams to deliver high-quality software. In my free time, I enjoy tinkering with new technologies and sharing my knowledge with others. I am excited to contribute to open-source projects and collaborate with like-minded individuals.
+I'm Abhishek Singh, a seasoned DevOps engineer with 4 years of experience in Kubernetes, Docker, Ansible, monitoring, logging, and CI/CD. I've worked with clients like **Zenatix**, **QuickRide**, **ADTL**, building and maintaining their DevOps infrastructure. My expertise lies in Kubernetes containerization, orchestration, and scaling. I design CI/CD pipelines for quick and reliable software delivery, focusing on monitoring and logging for optimal system performance. I promote collaboration between development and operations teams and enjoy exploring new technologies and contributing to open-source projects.
+<br>
+<br>
 
 *   🌍  I'm based in Bangalore
 *   🖥️  See my portfolio at [Profile](http://iamabhishek.me)
-*   ✉️  You can contact me at [abhishek.abvp.as@gmail.com](mailto:abhishek.abvp.as@gmail.com)
+*   ✉️   You can contact me at [abhishek.abvp.as@gmail.com](mailto:abhishek.abvp.as@gmail.com)
 *   🚀  I'm currently working on [Modded Minecraft Servers](http://github.com/asabhi6776/minecraft_server.git)
+*   📝  I regularly write articles on [Myblogs](https://blogs.iamabhishek.me)
 *   🧠  I'm learning Python, Terraform and Groovy
 *   🤝  I'm open to collaborating on Minecraft Server, K8s and Automation.
+*   💬  Ask me about **Kubernetes, Docker and Virtualization**
+*   ⚡  Fun fact **I love cat videos.**
 
 [![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asabhi6776&theme=github-compact&area=true&hide_border=true#gh-dark-mode-only")](https://github.com/asabhi6776)
 
@@ -35,7 +33,6 @@ I am a strong believer in the DevOps culture, and I strive to promote collaborat
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blogs.iamabhishek.me)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/asabhi6776)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GphntxYBnW)
-<!--[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)-->
 
 ### 🔭 I’m currently working on ...
 
@@ -81,22 +78,10 @@ I am a strong believer in the DevOps culture, and I strive to promote collaborat
 <a href="#"><img height="32" width="32" src="./images/ruby.svg" alt="Ruby" title="Ruby" /></a>
 <a href="#"><img height="32" width="32" src="./images/react.svg" alt="ReactJS" title="ReactJS" /></a>-->
 
-### Blogs posts
+### :book: Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<!-- <table>
-<tbody>
-<tr>
-<td>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=asabhi6776&count_private=true&show_icons=true&theme=dracula"/>
-</td>
-<td>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asabhi6776&count_private=true&show_icons=true&theme=dracula&langs_count=10&layout=compact"/>
-</td>
-</tr>
-</tbody>
-</table> -->
 
 ## 📈 Stats
 <p align="center">
@@ -108,5 +93,5 @@ I am a strong believer in the DevOps culture, and I strive to promote collaborat
 
 <br>
 
-### Support Me
-<a href="https://www.buymeacoffee.com/asabhi6776"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+### Support:
+<p><a href="https://www.buymeacoffee.com/asabhi6776"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="asabhi6776" /></a><a href="https://ko-fi.com/asabhi6776"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="asabhi6776" /></a></p>
