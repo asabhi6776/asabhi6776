@@ -83,6 +83,10 @@ I am a strong believer in the DevOps culture, and I strive to promote collaborat
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud-native architecture and deployment strategies](https://blogs.iamabhishek.me/cloud-native-architecture-and-deployment-strategies)
+- [Observability: The Key to Building Reliable and Performant Systems](https://blogs.iamabhishek.me/observability-the-key-to-building-reliable-and-performant-systems)
+- [Microservices and Containerization: Revolutionizing Application Development and Management in DevOps.](https://blogs.iamabhishek.me/microservices-and-containerization)
+- [Serverless computing: The future of DevOps?](https://blogs.iamabhishek.me/serverless-computing-the-future-of-devops)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <table>
