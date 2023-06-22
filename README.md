@@ -81,9 +81,9 @@ I am a strong believer in the DevOps culture, and I strive to promote collaborat
 <a href="#"><img height="32" width="32" src="./images/ruby.svg" alt="Ruby" title="Ruby" /></a>
 <a href="#"><img height="32" width="32" src="./images/react.svg" alt="ReactJS" title="ReactJS" /></a>-->
 
-### :book: Blogs
-
-https://blogs.iamabhishek.me/
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!-- <table>
 <tbody>
