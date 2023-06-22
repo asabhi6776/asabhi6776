@@ -7,7 +7,7 @@ DevOps Engineer
 
 [![Website](https://img.shields.io/website?label=iamabhishek.me&style=for-the-badge&url=https%3A%2F%2Fiamabhishek.me)](https://www.iamabhishek.me)
 [![Website](https://img.shields.io/website?label=blogs.iamabhishek.me&style=for-the-badge&url=https%3A%2F%2Fblogs.iamabhishek.me)](https://blogs.iamabhishek.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/asabhi6776?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthesniperxjohn&screen_name=asabhi6776)
+[![Twitter Follow](https://img.shields.io/twitter/follow/asabhi6776?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fasabhi6776&screen_name=asabhi6776)
 
 <!-- I am a 👨‍💻 **DevOps Engineer** working with **[Netzary Infodynamics](https://netzary.com)**. I am interested in **DevOps**, **Linux**, and **Blogging**. I like to play games, right now I am working for **ISRO**, **Zenatix** and **DRDO**. -->
 
@@ -26,7 +26,7 @@ I am a strong believer in the DevOps culture, and I strive to promote collaborat
 *   🧠  I'm learning Python, Terraform and Groovy
 *   🤝  I'm open to collaborating on Minecraft Server, K8s and Automation.
 
-[![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=asabhi6776&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/asabhi6776)
+[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asabhi6776&theme=github-compact&area=true&hide_border=true#gh-dark-mode-only")](https://github.com/asabhi6776)
 
 ### 📫 How to reach me
 [![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/as_abhi6776)
