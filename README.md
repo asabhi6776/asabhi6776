@@ -78,7 +78,7 @@ I'm Abhishek Singh, a seasoned DevOps engineer with 4 years of experience in Kub
 <a href="#"><img height="32" width="32" src="./images/ruby.svg" alt="Ruby" title="Ruby" /></a>
 <a href="#"><img height="32" width="32" src="./images/react.svg" alt="ReactJS" title="ReactJS" /></a>-->
 
-### :book: Blogs posts
+### :book: Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
