@@ -18,7 +18,7 @@ I'm Abhishek Singh, a seasoned DevOps engineer with 4 years of experience in Kub
 *   🖥️  See my portfolio at [Profile](http://iamabhishek.me)
 *   ✉️   You can contact me at [abhishek.abvp.as@gmail.com](mailto:abhishek.abvp.as@gmail.com)
 *   🚀  I'm currently working on [Modded Minecraft Servers](http://github.com/asabhi6776/minecraft_server.git)
-*   📝  I regularly write articles on [Myblogs](https://blogs.iamabhishek.me)
+*   📝  I regularly write articles on [Myblogs](https://opscribe.site)
 *   🧠  I'm learning Python, Terraform and Groovy
 *   🤝  I'm open to collaborating on Minecraft Server, K8s and Automation.
 *   💬  Ask me about **Kubernetes, Docker and Virtualization**
