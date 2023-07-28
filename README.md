@@ -80,10 +80,10 @@ I'm Abhishek Singh, a seasoned DevOps engineer with 4 years of experience in Kub
 
 ### :book: Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Istio Service Mesh: A Comprehensive Guide](https://opscribe.site/understanding-istio-service-mesh-a-comprehensive-guide)
 - [Hosting a Django Application on Kubernetes with PostgreSQL Database and Istio as Ingress](https://opscribe.site/hosting-a-django-application-on-kubernetes-with-postgresql-database-and-istio-as-ingress)
 - [Cloud-native architecture and deployment strategies](https://opscribe.site/cloud-native-architecture-and-deployment-strategies)
 - [Observability: The Key to Building Reliable and Performant Systems](https://opscribe.site/observability-the-key-to-building-reliable-and-performant-systems)
-- [Microservices and Containerization: Revolutionizing Application Development and Management in DevOps.](https://opscribe.site/microservices-and-containerization)
 <!-- BLOG-POST-LIST:END -->
 
 
