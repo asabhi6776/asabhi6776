@@ -80,10 +80,10 @@ I'm Abhishek Singh, a seasoned DevOps engineer with 4 years of experience in Kub
 
 ### :book: Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Integrating NFS as a storage class in Kubernetes cluster](https://opscribe.site/integrating-nfs-as-a-storage-class-in-kubernetes-cluster)
 - [[Updated] How to install MetalLB in your Self hosted K8s cluster.](https://opscribe.site/updated-how-to-install-metallb-in-your-self-hosted-k8s-cluster)
 - [Cloud Engineer vs. DevOps Engineer](https://opscribe.site/cloud-engineer-vs-devops-engineer)
 - [Understanding Istio Service Mesh: A Comprehensive Guide](https://opscribe.site/understanding-istio-service-mesh-a-comprehensive-guide)
-- [Hosting a Django Application on Kubernetes with PostgreSQL Database and Istio as Ingress](https://opscribe.site/hosting-a-django-application-on-kubernetes-with-postgresql-database-and-istio-as-ingress)
 <!-- BLOG-POST-LIST:END -->
 
 
