@@ -5,7 +5,7 @@ DevOps Engineer
 ---------------
 <br>
 
-[![Website](https://img.shields.io/website?label=iamabhishek.me&style=for-the-badge&url=https%3A%2F%2Fiamabhishek.me)](https://www.iamabhishek.me)
+[![Website](https://img.shields.io/website?label=iam-abhishek.netlify.app&style=for-the-badge&url=https%3A%2F%2Fiam-abhishek.netlify.app)](https://iam-abhishek.netlify.app)
 [![Website](https://img.shields.io/website?label=opscribe.site&style=for-the-badge&url=https%3A%2F%2Fopscribe.site)](https://opscribe.site)
 [![Twitter Follow](https://img.shields.io/twitter/follow/asabhi6776?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fasabhi6776&screen_name=asabhi6776)
 
@@ -15,7 +15,7 @@ I'm Abhishek Singh, a seasoned DevOps engineer with 4 years of experience in Kub
 <br>
 
 *   🌍  I'm based in Bangalore
-*   🖥️  See my portfolio at [Profile](http://iamabhishek.me)
+*   🖥️  See my portfolio at [Profile](https://iam-abhishek.netlify.app)
 *   ✉️   You can contact me at [abhishek.abvp.as@gmail.com](mailto:abhishek.abvp.as@gmail.com)
 *   🚀  I'm currently working on [Modded Minecraft Servers](http://github.com/asabhi6776/minecraft_server.git)
 *   📝  I regularly write articles on [Myblogs](https://opscribe.site)
