@@ -80,10 +80,10 @@ I'm Abhishek Singh, a seasoned DevOps engineer with 4 years of experience in Kub
 
 ### :book: Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chaos Engineering: Building Resilient Systems Through Deliberate Disruption](https://opscribe.site/chaos-engineering-building-resilient-systems-through-deliberate-disruption)
 - [Istio: Understanding and Installation](https://opscribe.site/istio-understanding-and-installation)
 - [Unlocking AWS Power for Microservices: A Guide to IAM Roles for Service Accounts &lpar;IRSA&rpar;](https://opscribe.site/iam-roles-for-service-accounts-irsa)
 - [Integrating NFS as a storage class in Kubernetes cluster](https://opscribe.site/integrating-nfs-as-a-storage-class-in-kubernetes-cluster)
+- [[Updated] How to install MetalLB in your Self hosted K8s cluster.](https://opscribe.site/updated-how-to-install-metallb-in-your-self-hosted-k8s-cluster)
 <!-- BLOG-POST-LIST:END -->
 
 
