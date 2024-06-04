@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/website?label=abhishek-singh&style=for-the-badge&url=https%3A%2F%2Fiam-abhishek.netlify.app)](https://iam-abhishek.netlify.app)
 [![Website](https://img.shields.io/website?label=opscribe.site&style=for-the-badge&url=https%3A%2F%2Fopscribe.site)](https://opscribe.site)
 [![Twitter Follow](https://img.shields.io/twitter/follow/asabhi6776?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fasabhi6776&screen_name=asabhi6776)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asabhi6776&label=Profile%20views&color=0e75b6&style=flat" alt="asabhi6776" /> </p>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
 
 
 I'm Abhishek Singh, a seasoned DevOps engineer with 4 years of experience in Kubernetes, Docker, Ansible, monitoring, logging, and CI/CD. I've worked with clients like **Zenatix**, **QuickRide**, **ADTL**, building and maintaining their DevOps infrastructure. My expertise lies in Kubernetes containerization, orchestration, and scaling. I design CI/CD pipelines for quick and reliable software delivery, focusing on monitoring and logging for optimal system performance. I promote collaboration between development and operations teams and enjoy exploring new technologies and contributing to open-source projects.
@@ -17,7 +17,7 @@ I'm Abhishek Singh, a seasoned DevOps engineer with 4 years of experience in Kub
 *   ✉️   You can contact me at [abhishek.abvp.as@gmail.com](mailto:abhishek.abvp.as@gmail.com)
 *   🚀  I'm currently working on [Modded Minecraft Servers](http://github.com/asabhi6776/minecraft_server.git)
 *   📝  I regularly write articles on [Myblogs](https://opscribe.site)
-*   🧠  I'm learning Python, Terraform and Groovy
+*   🧠  I'm learning Python, GO and Groovy
 *   🤝  I'm open to collaborating on Minecraft Server, K8s and Automation.
 *   💬  Ask me about **Kubernetes, Docker and Virtualization**
 *   ⚡  Fun fact **I love cat videos.**
