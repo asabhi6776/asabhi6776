@@ -1,13 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhishek Singh
-======================================================================================================================================
-
-DevOps Engineer
----------------
+<h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
+<h3 align="center">A passionate Devops Engineer from India</h3>
 <br>
 
 [![Website](https://img.shields.io/website?label=abhishek-singh&style=for-the-badge&url=https%3A%2F%2Fiam-abhishek.netlify.app)](https://iam-abhishek.netlify.app)
 [![Website](https://img.shields.io/website?label=opscribe.site&style=for-the-badge&url=https%3A%2F%2Fopscribe.site)](https://opscribe.site)
 [![Twitter Follow](https://img.shields.io/twitter/follow/asabhi6776?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fasabhi6776&screen_name=asabhi6776)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asabhi6776&label=Profile%20views&color=0e75b6&style=flat" alt="asabhi6776" /> </p>
 
 
 I'm Abhishek Singh, a seasoned DevOps engineer with 4 years of experience in Kubernetes, Docker, Ansible, monitoring, logging, and CI/CD. I've worked with clients like **Zenatix**, **QuickRide**, **ADTL**, building and maintaining their DevOps infrastructure. My expertise lies in Kubernetes containerization, orchestration, and scaling. I design CI/CD pipelines for quick and reliable software delivery, focusing on monitoring and logging for optimal system performance. I promote collaboration between development and operations teams and enjoy exploring new technologies and contributing to open-source projects.
