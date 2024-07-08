@@ -3,7 +3,7 @@
 <br>
 
 [![Website](https://img.shields.io/website?label=abhishek-singh&style=for-the-badge&url=https%3A%2F%2Fiam-abhishek.netlify.app)](https://iam-abhishek.netlify.app)
-[![Website](https://img.shields.io/website?label=opscribe.site&style=for-the-badge&url=https%3A%2F%2Fopscribe.site)](https://opscribe.site)
+[![Website](https://img.shields.io/website?label=asabhi6776.hashnode.dev&style=for-the-badge&url=https%3A%2F%2Fasabhi6776.hashnode.dev)](https://asabhi6776.hashnode.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/asabhi6776?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fasabhi6776&screen_name=asabhi6776)
 ![](https://komarev.com/ghpvc/?username=asabhi6776&color=dc143c)
 
@@ -16,7 +16,7 @@ I'm Abhishek Singh, a seasoned DevOps engineer with 4 years of experience in Kub
 *   🖥️  See my portfolio at [Profile](https://iam-abhishek.netlify.app)
 *   ✉️   You can contact me at [abhishek.abvp.as@gmail.com](mailto:abhishek.abvp.as@gmail.com)
 *   🚀  I'm currently working on [Modded Minecraft Servers](http://github.com/asabhi6776/minecraft_server.git)
-*   📝  I regularly write articles on [Myblogs](https://opscribe.site)
+*   📝  I regularly write articles on [Myblogs](https://asabhi6776.hashnode.dev)
 *   🧠  I'm learning Python, GO and Groovy
 *   🤝  I'm open to collaborating on Minecraft Server, K8s and Automation.
 *   💬  Ask me about **Kubernetes, Docker and Virtualization**
@@ -28,7 +28,7 @@ I'm Abhishek Singh, a seasoned DevOps engineer with 4 years of experience in Kub
 [![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/as_abhi6776)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-singh-16bb53143/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek.abvp.as@gmail.com)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://opscribe.site)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://asabhi6776.hashnode.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/asabhi6776)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GphntxYBnW)
 
@@ -78,10 +78,10 @@ I'm Abhishek Singh, a seasoned DevOps engineer with 4 years of experience in Kub
 
 ### :book: Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Solved] You have reached your pull rate limit.](https://opscribe.site/solved-you-have-reached-your-pull-rate-limit)
-- [Deploying an EKS Cluster with Terraform: Best Practices](https://opscribe.site/deploying-an-eks-cluster-with-terraform-best-practices)
-- [Chaos Engineering: Building Resilient Systems Through Deliberate Disruption](https://opscribe.site/chaos-engineering-building-resilient-systems-through-deliberate-disruption)
-- [Istio: Understanding and Installation](https://opscribe.site/istio-understanding-and-installation)
+- [[Solved] You have reached your pull rate limit.](https://asabhi6776.hashnode.dev/solved-you-have-reached-your-pull-rate-limit)
+- [Deploying an EKS Cluster with Terraform: Best Practices](https://asabhi6776.hashnode.dev/deploying-an-eks-cluster-with-terraform-best-practices)
+- [Chaos Engineering: Building Resilient Systems Through Deliberate Disruption](https://asabhi6776.hashnode.dev/chaos-engineering-building-resilient-systems-through-deliberate-disruption)
+- [Istio: Understanding and Installation](https://asabhi6776.hashnode.dev/istio-understanding-and-installation)
 <!-- BLOG-POST-LIST:END -->
 
 
