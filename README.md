@@ -3,7 +3,7 @@
 <br>
 
 [![Website](https://img.shields.io/website?label=abhishek-singh&style=for-the-badge&url=https%3A%2F%2Fiam-abhishek.netlify.app)](https://iam-abhishek.netlify.app)
-[![Website](https://img.shields.io/website?label=asabhi6776.hashnode.dev&style=for-the-badge&url=https%3A%2F%2Fasabhi6776.hashnode.dev)](https://asabhi6776.hashnode.dev)
+[![Website](https://img.shields.io/website?label=opscribe.blog&style=for-the-badge&url=https%3A%2F%2Fopscribe.blog)](https://opscribe.blog)
 [![Twitter Follow](https://img.shields.io/twitter/follow/asabhi6776?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fasabhi6776&screen_name=asabhi6776)
 ![](https://komarev.com/ghpvc/?username=asabhi6776&color=dc143c)
 
