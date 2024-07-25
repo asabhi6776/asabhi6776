@@ -78,10 +78,10 @@ I'm Abhishek Singh, a seasoned DevOps engineer with 4 years of experience in Kub
 
 ### :book: Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Solved] You have reached your pull rate limit.](https://opscribe.blog/solved-you-have-reached-your-pull-rate-limit)
-- [Deploying an EKS Cluster with Terraform: Best Practices](https://opscribe.blog/deploying-an-eks-cluster-with-terraform-best-practices)
-- [Chaos Engineering: Building Resilient Systems Through Deliberate Disruption](https://opscribe.blog/chaos-engineering-building-resilient-systems-through-deliberate-disruption)
-- [Istio: Understanding and Installation](https://opscribe.blog/istio-understanding-and-installation)
+- [[Solved] You have reached your pull rate limit.](https://asabhi6776.hashnode.dev/solved-you-have-reached-your-pull-rate-limit)
+- [Deploying an EKS Cluster with Terraform: Best Practices](https://asabhi6776.hashnode.dev/deploying-an-eks-cluster-with-terraform-best-practices)
+- [Chaos Engineering: Building Resilient Systems Through Deliberate Disruption](https://asabhi6776.hashnode.dev/chaos-engineering-building-resilient-systems-through-deliberate-disruption)
+- [Istio: Understanding and Installation](https://asabhi6776.hashnode.dev/istio-understanding-and-installation)
 <!-- BLOG-POST-LIST:END -->
 
 
