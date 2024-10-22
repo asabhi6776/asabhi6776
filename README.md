@@ -1,77 +1,19 @@
-<h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
-<h3 align="center">A passionate Devops Engineer from India</h3>
-<br>
+<h1>Hi 👋, I'm Abhishek Singh</h1>
+<p>A passionate Devops Engineer from India</p>
 
-[![Website](https://img.shields.io/website?label=abhishek-singh&style=for-the-badge&url=https%3A%2F%2Fwww.iamabhishek.co)](https://iamabhishek.co)
-[![Website](https://img.shields.io/website?label=opscribe.blog&style=for-the-badge&url=https%3A%2F%2Fopscribe.blog)](https://opscribe.blog)
-[![Twitter Follow](https://img.shields.io/twitter/follow/asabhi6776?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fasabhi6776&screen_name=asabhi6776)
-![Views](https://komarev.com/ghpvc/?username=asabhi6776&color=dc143c)
+# 💫 About Me
 
-<br>
-<br>
+- 🖥️ See my portfolio at [Profile](https://iamabhishek.co)
+- 🚀 I'm currently working on Kubernetes, Kafka and Druid
+- 📝 I regularly write articles on [Myblogs](https://opscribe.blog)
+- 🧠 I'm learning GO, Blockbench and Web Development
+- 🤝 I'm open to collaborating on Kubernetes and Container Orchestration.
+- 💬 Ask me about Kubernetes, Docker and Virtualization
+- ⚡ Fun fact I love cat videos.
 
-*   🖥️  See my portfolio at [Profile](https://iamabhishek.co)
-*   ✉️   You can contact me at [abhishek.abvp.as@gmail.com](mailto:abhishek.abvp.as@gmail.com)
-*   🚀  I'm currently working on [Modded Minecraft Servers](http://github.com/asabhi6776/minecraft_server.git)
-*   📝  I regularly write articles on [Myblogs](https://opscribe.blog)
-*   🧠  I'm learning Python, GO and Groovy
-*   🤝  I'm open to collaborating on Minecraft Server, K8s and Automation.
-*   💬  Ask me about **Kubernetes, Docker and Virtualization**
-*   ⚡  Fun fact **I love cat videos.**
+## 🌐 Socials
 
-[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asabhi6776&theme=github-compact&area=true&hide_border=true#gh-dark-mode-only")](https://github.com/asabhi6776)
-
-### 📫 How to reach me
-[![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/as_abhi6776)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-singh-16bb53143/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek.abvp.as@gmail.com)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://asabhi6776.hashnode.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/asabhi6776)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GphntxYBnW)
-
-### 🔭 I’m currently working on ...
-
-<a href="#"><img height="32" width="32" src="./images/kubernetes.svg" alt="Kubernetes" title="Kubernetes" /></a>
-<a href="#"><img height="32" width="32" src="./images/helm.svg" alt="Helm" title="Helm" /></a>
-<a href="#"><img height="32" width="32" src="./images/docker.svg" alt="Docker" title="Docker" /></a>
-<a href="#"><img height="32" width="32" src="./images/linux.svg" alt="Linux" title="Linux" /></a>
-<a href="#"><img height="32" width="32" src="./images/azure.svg" alt="Azure" title="Azure" /></a>
-<a href="#"><img height="32" width="32" src="./images/azuredevops.svg" alt="AzureDevOps" title="AzureDevOps" /></a>
-<a href="#"><img height="32" width="32" src="./images/azurepipelines.svg" alt="AzurePipeline" title="AzurePipeline" /></a>
-<a href="#"><img height="32" width="32" src="./images/git.svg" alt="Git" title="Git" /></a>
-<a href="#"><img height="32" width="32" src="./images/github.svg" alt="Github" title="Github" /></a>
-<a href="#"><img height="32" width="32" src="./images/python.svg" alt="Python" title="Python" /></a>
-<a href="#"><img height="32" width="32" src="./images/amazonaws.svg" alt="AWS" title="AWS" /></a>
-<a href="#"><img height="32" width="32" src="./images/googlecloud.svg" alt="GCP" title="GCP" /></a>
-<a href="#"><img height="32" width="32" src="./images/prometheus.svg" alt="Prometheus" title="Prometheus" /></a>
-<a href="#"><img height="32" width="32" src="./images/grafana.svg" alt="Grafana" title="Grafana" /></a>
-<a href="#"><img height="32" width="32" src="./images/elasticsearch.svg" alt="Elasticsearch" title="Elasticsearch" /></a>
-<a href="#"><img height="32" width="32" src="./images/redis.svg" alt="Redis" title="Redis" /></a>
-<a href="#"><img height="32" width="32" src="./images/apachekafka.svg" alt="Kafka" title="Kafka" /></a>
-
-### 🌱 I have experience on ...
-
-<a href="#"><img height="32" width="32" src="./images/openstack.svg" alt="Openstack" title="Openstack" /></a>
-<a href="#"><img height="32" width="32" src="./images/terraform.svg" alt="Terraform" title="Terraform" /></a>
-<a href="#"><img height="32" width="32" src="./images/jenkins.svg" alt="Jenkins" title="Jenkins" /></a>
-<a href="#"><img height="32" width="32" src="./images/ansible.svg" alt="Ansible" title="Ansible" /></a>
-<a href="#"><img height="32" width="32" src="./images/vagrant.svg" alt="Vagrant" title="Vagrant" /></a>
-<a href="#"><img height="32" width="32" src="./images/gnubash.svg" alt="Bash" title="Bash" /></a>
-<a href="#"><img height="32" width="32" src="./images/nginx.svg" alt="Nginx" title="Nginx" /></a>
-<a href="#"><img height="32" width="32" src="./images/vault.svg" alt="Vault" title="Vault" /></a>
-<a href="#"><img height="32" width="32" src="./images/keycloak.svg" alt="Keycloak" title= "Keycloak" /> </a>
-<a href="#"><img height="32" width="32" src="./images/apachedruid.svg" alt="Druid" title="Druid" /></a>
-<a href="#"><img height="32" width="32" src="./images/argocd.png" alt="ArgoCD" title="ArgoCD" /></a>
-<a href="#"><img height="32" width="32" src="./images/Circleci.png" alt="CircleCI" title="CircleCI" /></a>
-<a href="#"><img height="32" width="32" src="./images/metallb.png" alt="MetalLB" title="MetalLB" /></a>
-<a href="#"><img height="32" width="32" src="./images/istio.png" alt="Istio" title="Istio" /></a>
-<a href="#"><img height="32" width="32" src="./images/heroku-icon.svg" alt="Heroku" title="Heroku" /></a>
-<!--<a href="#"><img height="32" width="32" src="./images/java.svg" alt="Java" title="Java" /></a>
-<a href="#"><img height="32" width="32" src="./images/go.svg" alt="Golang" title="Golang" /></a>
-<a href="#"><img height="32" width="32" src="./images/puppet.svg" alt="Puppet" title="Puppet" /></a>
-<a href="#"><img height="32" width="32" src="./images/apachegroovy.svg" alt="Groovy" title="Groovy" /></a>
-<a href="#"><img height="32" width="32" src="./images/ruby.svg" alt="Ruby" title="Ruby" /></a>
-<a href="#"><img height="32" width="32" src="./images/react.svg" alt="ReactJS" title="ReactJS" /></a>-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asabhi6776) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/asabhi6776) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/asabhi6776)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek.abvp.as@gmail.com)[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://asabhi6776.hashnode.dev)
 
 ### :book: Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -81,16 +23,20 @@
 - [Istio: Understanding and Installation](https://opscribe.blog/istio-understanding-and-installation)
 <!-- BLOG-POST-LIST:END -->
 
+# 💻 Tech Stack
 
-## 📈 Stats
-<p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asabhi6776&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=asabhi6776&theme=tokyonight" />
-</p>
+![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![AquaSec](https://img.shields.io/badge/aqua-%231904DA.svg?style=for-the-badge&logo=aqua&logoColor=#0018A8)
 
+# 📊 GitHub Stats
 
-<br>
+![](https://github-readme-stats.vercel.app/api?username=asabhi6776&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=asabhi6776&theme=codeSTACKr&hide_border=true)
 
-### Support:
-<p><a href="https://www.buymeacoffee.com/asabhi6776"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="asabhi6776" /></a><a href="https://ko-fi.com/asabhi6776"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="asabhi6776" /></a></p>
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=asabhi6776&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
