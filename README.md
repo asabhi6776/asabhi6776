@@ -41,7 +41,7 @@ I'm a passionate **DevOps Engineer** dedicated to building, automating, and opti
 ## 🌐 Connect With Me
 
 - 🖥️ **Portfolio:** [iamabhishek.co](https://iamabhishek.co)
-- 📝 **Blogs:** [blogs.iamabhishek.co](https://blogs.iamabhishek.co)
+- 📝 **Blogs:** [asabhi6776.hashnode.dev](https://asabhi6776.hashnode.dev)
 
 ---
 
